@@ -10,36 +10,363 @@ Due Dates: **bold** = 15.565 & 15.578; _italics_ = 15.578 only; normal = 15.565 
 
   
 
-| LEC # | Topics | Due Dates |
-| --- | --- | --- |
-| 1 | Introduction |  |
-| {{< td-colspan 3 >}}**I. Strategic Connectivity**{{< /td-colspan >}} |||
-| 2 | Information Technology, Corporate Strategy, and Competitive Advantage (Interlinked Value Chains) |  |
-| 3 | Strategic Case Study (Johnson & Johnson Case) | **HW1: J&J** |
-| 4 | Business and Industry Transformation (McKesson Case) |  |
-| 5 | Aggregators: Traveling the Internet "Fast Lane" |  |
-| {{< td-colspan 3 >}}**II. Physical Connectivity**{{< /td-colspan >}} |||
-| 6 | Basic Communications Technology and Concepts | CP1: Goals |
-| 7 | Local Area Networks | **TP & CP Team Members** |
-| 8 | Wide Area Networks (Packet Networks) |  |
-| 9 | Network Protocols (ISO OSI) | CP2: LAN |
-| 10 | Emerging Technologies I (Frame Relay, ATM, V-IP) |  |
-| 11 | Emerging Technologies II (ADSL, Cable Modem) | HW2 |
-| 12 | Technical Case Study - MIT's Network Configuration | _TP Proposal_/ CP3: WAN |
-| {{< td-colspan 3 >}}**III. Logical Connectivity**{{< /td-colspan >}} |||
-| 13 | Distributed Homogeneous Databases |  |
-| 14 | **Mid-term Exam** |  |
-| 15 | Distributed Heterogeneous Databases | _HW3-A_ / CP4: DB Design |
-| 16 | View Integration Among Databases |  |
-| 17 | Web as a Database (COIN Project) | CP5: View Integrate /ASP |
-| 18 | Semantic Integration (COIN Project) |  |
-| 19 | Component Architecture (CORBA) and Web Services |  |
-| {{< td-colspan 3 >}}**IV. Organizational Connectivity**{{< /td-colspan >}} |||
-| 20 | Loosely-coupled Organizations | CP6: Backend Integrate |
-| 21 | Markets and Hierarchies: Organizational Coupling | **HW4** |
-| 22 | Development of Standards | **HW3-B** |
-| 23 | Motivating Strategic Alliances & Organizational Transformation | _Term Project_ / CP7: Final PAS |
-| {{< td-colspan 3 >}}**V. Finale**{{< /td-colspan >}} |||
-| 24 | Course Summary and Review |  |
-| 25 | Selected Student Presentations |  |
-| 26 | Final Exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Due Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I. Strategic Connectivity**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Information Technology, Corporate Strategy, and Competitive Advantage (Interlinked Value Chains)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Strategic Case Study (Johnson & Johnson Case)
+{{< tdclose >}}
+{{< tdopen >}}
+**HW1: J&J**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Business and Industry Transformation (McKesson Case)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Aggregators: Traveling the Internet "Fast Lane"
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II. Physical Connectivity**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Basic Communications Technology and Concepts
+{{< tdclose >}}
+{{< tdopen >}}
+CP1: Goals
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Local Area Networks
+{{< tdclose >}}
+{{< tdopen >}}
+**TP & CP Team Members**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Wide Area Networks (Packet Networks)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Network Protocols (ISO OSI)
+{{< tdclose >}}
+{{< tdopen >}}
+CP2: LAN
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Emerging Technologies I (Frame Relay, ATM, V-IP)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Emerging Technologies II (ADSL, Cable Modem)
+{{< tdclose >}}
+{{< tdopen >}}
+HW2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Technical Case Study - MIT's Network Configuration
+{{< tdclose >}}
+{{< tdopen >}}
+_TP Proposal_/ CP3: WAN
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III. Logical Connectivity**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Distributed Homogeneous Databases
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+**Mid-term Exam**
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Distributed Heterogeneous Databases
+{{< tdclose >}}
+{{< tdopen >}}
+_HW3-A_ / CP4: DB Design
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+View Integration Among Databases
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Web as a Database (COIN Project)
+{{< tdclose >}}
+{{< tdopen >}}
+CP5: View Integrate /ASP
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Semantic Integration (COIN Project)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Component Architecture (CORBA) and Web Services
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**IV. Organizational Connectivity**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Loosely-coupled Organizations
+{{< tdclose >}}
+{{< tdopen >}}
+CP6: Backend Integrate
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Markets and Hierarchies: Organizational Coupling
+{{< tdclose >}}
+{{< tdopen >}}
+**HW4**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Development of Standards
+{{< tdclose >}}
+{{< tdopen >}}
+**HW3-B**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Motivating Strategic Alliances & Organizational Transformation
+{{< tdclose >}}
+{{< tdopen >}}
+_Term Project_ / CP7: Final PAS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**V. Finale**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Course Summary and Review
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Selected Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
